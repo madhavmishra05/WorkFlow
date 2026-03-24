@@ -55,8 +55,8 @@ WorkFlow/
 
 ## 👨‍💻 Author
 
-**Madhav Mishra**
-**Vaibhav**
+**Madhav Mishra ,**
+**Vaibhav ,**
 **Mohd Shahbaz Khan**
 
 ---
