@@ -1,66 +1,12 @@
-# 🚀 WorkFlow - Employee Management System
----
+# WorkFlow — Intelligent People Platform
 
-## 📌 Overview
+> A modern, AI-powered HRMS that prioritizes people over processes.
 
-**WorkFlow** is a full-stack Employee Management System designed to manage employee records efficiently. It provides a clean interface for handling employee data, authentication, and administrative operations.
+## Getting Started
 
----
-
-## ✨ Features
-
-* 🔐 Authentication (Login / Register)
-* 👥 Employee CRUD Operations
-* 🧑‍💼 Role-Based Access Control
-* 📊 Dashboard Overview
-* 🔍 Search & Filter Employees
-* ⚡ Responsive UI
-* 🔗 REST API Integration
-
----
-
-## 🛠️ Tech Stack
-
-| Layer    | Technology           |
-| -------- | -------------------- |
-| Frontend | React.js             |
-| Backend  | Node.js + Express.js |
-| Database | MySQL                |
-| Tools    | Postman, Git         |
-
----
-
-## 📂 Folder Structure
-
-```
-WorkFlow/
-│
-├── client/              # React Frontend
-│   ├── src/
-│   └── public/
-│
-├── server/              # Node Backend
-│   ├── routes/
-│   ├── controllers/
-│   ├── models/
-│   └── config/
-│
-├── database/            # SQL Scripts
-│
-├── README.md
-└── package.json
+```bash
+npm install
+npm run dev
 ```
 
-
-
-## 👨‍💻 Author
-
-**Madhav Mishra ,**
-**Vaibhav ,**
-**Mohd Shahbaz Khan**
-
----
-
-## ⭐ Show Your Support
-
-Give a ⭐ if you like this project!
+### Demo Login: admin@workflow.com / hr@workflow.com / sarah@workflow.com (password123)
