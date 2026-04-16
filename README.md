@@ -91,22 +91,6 @@ Workflow/
 
 ---
 
-## ⚙️ Installation & Setup
-
-### 🔹 Clone Repository
-
-```bash
-```
-git clone <your-repository-link>
-cd Workflow
-
-### 🗄️ Database Setup
-
-1. Install PostgreSQL
-2. Create database (e.g. `hrms`)
-
----
-
 ## 📊 Advantages
 
 * Centralized job platform
