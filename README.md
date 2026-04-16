@@ -96,76 +96,14 @@ Workflow/
 ### 🔹 Clone Repository
 
 ```bash
+```
 git clone <your-repository-link>
 cd Workflow
-```
-
----
-
-### 🔹 Frontend Setup
-
-```bash
-cd HRMS_Frontend
-npm install
-npm start
-```
-
-Runs on:
-
-```
-http://localhost:3000
-```
-
----
-
-### 🔹 Backend Setup
-
-```bash
-cd HRMS_Backend
-mvn spring-boot:run
-```
-
-Runs on:
-
-```
-http://localhost:8080
-```
-
----
 
 ### 🗄️ Database Setup
 
 1. Install PostgreSQL
 2. Create database (e.g. `hrms`)
-3. Open:
-
-```
-HRMS_Backend/src/main/resources/application.properties
-```
-
-4. Update credentials:
-
-```properties
-spring.datasource.url=jdbc:postgresql://localhost:5432/hrms
-spring.datasource.username=your_username
-spring.datasource.password=your_password
-```
-
-5. Run SQL file:
-
-```
-PostgreDatabaseSQL
-```
-
----
-
-## 🌐 API Documentation
-
-After running backend:
-
-```
-http://localhost:8080/swagger-ui.html
-```
 
 ---
 
@@ -203,4 +141,4 @@ http://localhost:8080/swagger-ui.html
 Workflow provides an efficient and modern solution for recruitment.
 It improves the hiring experience by combining all functionalities into one platform and has strong potential for future scalability.
 
----
+```
