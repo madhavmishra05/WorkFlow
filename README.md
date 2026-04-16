@@ -138,6 +138,13 @@ cd HRMS_Frontend
 npm install
 npm start
 ```
+🧪 Testing
+Manual testing for UI
+API testing using Postman
+
+
+🌟 Conclusion
+Workflow provides a modern and efficient solution for recruitment. It improves the hiring experience by combining all functionalities into one platform and has strong potential for future scalability.
 
 📄 License
 This project is developed for educational purposes and can be modified or extended.
